@@ -25,7 +25,7 @@
     * 긴 문맥과 명령어를 유지하는가
  
 * 모델 별 점수  
-(1) Gemini 3.1 Flash Lite **[★★★]**
+(1) Gemini 3.1 Flash Lite **[★★★]**  
   - 근거 하나둘셋  
   - 셋둘하나  
 (2) Claude Haiku 4.5 **[★★★]**  
